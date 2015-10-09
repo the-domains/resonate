@@ -5,7 +5,7 @@
         <description><![CDATA[Resonate]]></description>
         <link>https://thegrid.ai/resonate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 13:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 14:11:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/resonate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ashley & Jordan]]></title>
@@ -13,13 +13,6 @@
             <link>https://vimeo.com/124850547</link>
             <guid isPermaLink="false">dae57d44-c6cc-4755-a9be-30ed1a05729c</guid>
             <pubDate>Fri, 09 Oct 2015 13:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/resonate/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">5cda8fed-ebd7-47ef-a297-c3423f838c47</guid>
-            <pubDate>Fri, 09 Oct 2015 13:27:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
