@@ -22,8 +22,8 @@ color:
     - '#aa8080'
     - '#808060'
   brandStrength: 0.8125
-  lightness: 0.625
-  saturation: 0.375
+  lightness: 0.6875
+  saturation: 0.0625
   rhythmicContrast: 0.25
 purpose:
   - name: follow
