@@ -5,21 +5,21 @@
         <description><![CDATA[Resonate]]></description>
         <link>https://thegrid.ai/resonate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 14:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2015 01:35:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/resonate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Info]]></title>
+            <description><![CDATA[<h1>Contact Info</h1>]]></description>
+            <link>https://thegrid.ai/resonate/contact-info/index.html</link>
+            <guid isPermaLink="false">bb93b130-8e78-4b94-858e-f5ae40146b93</guid>
+            <pubDate>Fri, 09 Oct 2015 15:05:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7728bd12-e188-4409-8f78-5afba67fbed9.jpg">]]></description>
             <link>https://thegrid.ai/resonate/b1a6e158-3758-4534-9456-a3dbd949bcf2/index.html</link>
             <guid isPermaLink="false">b1a6e158-3758-4534-9456-a3dbd949bcf2</guid>
             <pubDate>Fri, 09 Oct 2015 14:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test 1]]></title>
-            <description><![CDATA[<article><h1>Test 1</h1><p>test test test</p></article>]]></description>
-            <link>https://thegrid.ai/resonate/test-1/index.html</link>
-            <guid isPermaLink="false">71f8cc95-1436-423f-97f3-4a9f5e1940cd</guid>
-            <pubDate>Fri, 09 Oct 2015 14:11:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
