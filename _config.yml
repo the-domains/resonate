@@ -1,6 +1,7 @@
 name: Resonate
 favicon: null
 layout_spectrum: 0.0269
+typography_spectrum: 0.81
 cta:
   domain: null
   bucket: null
